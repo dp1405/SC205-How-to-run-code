@@ -10,7 +10,7 @@ We have tested this application on Windows 11, and found that you need to follow
 Go to the directory where you have downloaded or cloned this application and run it.
 On Windows 11, You will find a message box,
 
-![img1](https://drive.google.com/file/d/1Rbpn1VvE4QDD0YmSsm6vKgsQFNA-eqIQ/view?usp=sharing)
+![img1](https://ibb.co/f8ZpW5B)
 
 Windows considere it as harmfull app, but it is safe to run it.
 
