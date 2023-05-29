@@ -5,7 +5,7 @@ This console application uses **Needleman-Wunsch Algorithm to find Global alignm
 
 ### Steps to run this Console Application
 
-We have tested this application on Windows 11, and found that you need to follow Some steps to run this console appliacation, which are as follow:
+We have tested this application on Windows 11, and found that you need to follow Some steps to run this console Application, which are as follow:
 
 Go to the directory where you have downloaded or cloned this application and run it.
 On Windows 11, You will find a message box,
