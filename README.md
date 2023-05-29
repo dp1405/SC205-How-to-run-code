@@ -25,3 +25,15 @@ Some users may get the window of Microsoft Store opend,
 ![img3](https://imgtr.ee/images/2023/05/29/1JjR1.jpg)
 
 Click on **install anyway** button, and the application will run.
+
+We recommend you to deavticate your device's Antivirus Software to run this Application without any conflict. 
+
+### Working with the Console Application
+
+First, You have to enter 2 biological sequences.
+
+Then, You have enter scoring mecahnism to perform the alignment. Generally, Match Score is positive and Mismatch Penalty and Gap Penalty are negative.
+
+Conventionally, we can take Match Score=1, Mismatch Penalty=-1, Gap Penalty=-2.
+
+Alignment score as well as Aligned Sequences will be displayed based on the score.
