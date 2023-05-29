@@ -10,7 +10,7 @@ We have tested this application on Windows 11, and found that you need to follow
 Go to the directory where you have downloaded or cloned this application and run it.
 On Windows 11, You will find a message box,
 
-![img1]{D:\img1.png}
+![img1](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 Windows considere it as harmfull app, but it is safe to run it.
 
