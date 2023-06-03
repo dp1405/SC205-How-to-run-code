@@ -1,39 +1,29 @@
+# Steps to run C++ code of Global and Local Algorithm
 
-# Sequence Alignment Windows Console Application
+You must have a g++ compiler installed on your device to run this code. Make sure to install it before executing!
 
-This console application uses **Needleman-Wunsch Algorithm to find Global alignment** and **Smith-Waterman Algorithm to find Loacl alignment** of any 2 biological sequences.
+### On Windows
 
-### Steps to run this Console Application
+Go to the folder where you have stored the code. Open terminal of your choice in that folder and write following commands:
 
-We have tested this application on Windows 11, and found that you need to follow Some steps to run this console Application, which are as follow:
+```console
+C:\Users\Alice\Desktop> g++ SC205.cpp
+```
 
-Go to the directory where you have downloaded or cloned this application and run it.
-On Windows 11, You will find a message box,
+```console
+C:\Users\Alice\Desktop> ./a.exe
+```
 
-![img1](https://imgtr.ee/images/2023/05/29/1JunD.png)
+### On Linux/Fedora
 
-Windows considere it as harmfull app, but it is safe to run it.
+Go to the folder where you have stored the code. Open terminal in that folder and write following commands:
 
-Click it on **More info** on this box, you will get updated box like this,
+```console
+Ali@ce:~$ g++ SC205.cpp
+```
 
-![img2](https://imgtr.ee/images/2023/05/29/1Jft4.png)
+```console
+Ali@ce:~$ ./a.out
+```
 
-Now click on **Run Anyway** button. The application should start.
-
-Some users may get the window of Microsoft Store opend, 
-
-![img3](https://imgtr.ee/images/2023/05/29/1JjR1.jpg)
-
-Click on **install anyway** button, and the application will run.
-
-We recommend you to deavticate your device's Antivirus Software to run this Application without any conflict. 
-
-### Working with the Console Application
-
-First, You have to enter 2 biological sequences.
-
-Then, You have enter scoring mecahnism to perform the alignment. Generally, Match Score is positive and Mismatch Penalty and Gap Penalty are negative.
-
-Conventionally, we can take Match Score=1, Mismatch Penalty=-1, Gap Penalty=-2.
-
-Alignment score as well as Aligned Sequences will be displayed based on the score.
+And you would be able to interact with the application.
